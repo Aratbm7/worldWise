@@ -1,9 +1,12 @@
+import NavPage from "../components/NavPage";
+
 function Products() {
-    return (
-        <div>
-            Products
-        </div>
-    )
+  return (
+    <div>
+      <NavPage />
+      Products
+    </div>
+  );
 }
 
-export default Products
+export default Products;
