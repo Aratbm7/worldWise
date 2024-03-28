@@ -6,6 +6,7 @@ import { useCiteies } from "./contexts/CitesContext";
 
 function CityList() {
 
+
   const {cities, isLoading} = useCiteies()
   if (isLoading) return <Spinner />;
   if(!cities.length) return <Message message="To add new city click on the map"/>
