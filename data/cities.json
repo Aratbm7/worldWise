@@ -1,81 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "d030",
-      "cityName": "Ashford",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "countryCode": "GB",
-      "emoji": "🇬🇧",
-      "date": "2024-03-30T23:31:37.616Z",
-      "notes": "",
-      "position": {
-        "lat": "51.089722918116315",
-        "lng": "0.7965087890625001"
-      }
-    },
-    {
-      "id": "4130",
-      "cityName": "Swaffham Bulbeck",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "countryCode": "GB",
-      "emoji": "🇬🇧",
-      "date": "2024-03-30T23:31:42.527Z",
-      "notes": "",
-      "position": {
-        "lat": "52.217704193421476",
-        "lng": "0.30761718750000006"
-      }
-    },
-    {
-      "id": "f454",
-      "cityName": "Chasseneuil",
-      "country": "France",
-      "countryCode": "FR",
-      "emoji": "🇫🇷",
-      "date": "2024-03-30T23:32:30.893Z",
-      "notes": "",
-      "position": {
-        "lat": "46.649436163350245",
-        "lng": "1.4941406250000002"
-      }
-    },
-    {
       "id": "c6ed",
       "cityName": "London",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
@@ -86,6 +11,19 @@
       "position": {
         "lat": "51.6180165487737",
         "lng": "0.0439453125"
+      }
+    },
+    {
+      "id": "479a",
+      "cityName": "Heris",
+      "country": "Iran (Islamic Republic of)",
+      "countryCode": "IR",
+      "emoji": "🇮🇷",
+      "date": "2024-04-02T19:50:51.367Z",
+      "notes": "",
+      "position": {
+        "lat": "38.253279568348304",
+        "lng": "47.13409423828126"
       }
     }
   ]

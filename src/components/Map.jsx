@@ -44,13 +44,13 @@ function Map() {
         {!geoLocationPosition && (
           <Button type="position" onClick={() => getPosition()}>
             {geoLoacationIsLoading ? "Loading..." : "Use Your position"}
-            {geoLocationError &&!geoLoacationIsLoading ? geoLocationError : ""}
+            {geoLocationError && !geoLoacationIsLoading ? geoLocationError : ""}
           </Button>
         )}
         <MapContainer
           className={styles.map}
           center={mapPosition}
-          zoom={8}
+          zoom={10}
           scrollWheelZoom={true}
         >
           <TileLayer
