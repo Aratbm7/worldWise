@@ -14,16 +14,29 @@
       }
     },
     {
-      "id": "479a",
-      "cityName": "Heris",
-      "country": "Iran (Islamic Republic of)",
-      "countryCode": "IR",
-      "emoji": "🇮🇷",
-      "date": "2024-04-02T19:50:51.367Z",
-      "notes": "",
+      "id": "82f9",
+      "cityName": "Chanteau",
+      "country": "France",
+      "countryCode": "FR",
+      "emoji": "🇫🇷",
+      "date": "2024-04-04T13:04:59.259Z",
+      "notes": "Test\n",
       "position": {
-        "lat": "38.253279568348304",
-        "lng": "47.13409423828126"
+        "lat": "47.99727386804474",
+        "lng": "1.9555664062500002"
+      }
+    },
+    {
+      "id": "0302",
+      "cityName": "Offranville",
+      "country": "France",
+      "countryCode": "FR",
+      "emoji": "🇫🇷",
+      "date": "2024-04-04T13:06:23.127Z",
+      "notes": "Test",
+      "position": {
+        "lat": "49.89551905518783",
+        "lng": "1.0505676269531252"
       }
     }
   ]
